@@ -1,0 +1,22 @@
+h1{
+    text-align: center;
+    text-decoration: rgb(214, 24, 88) double underline;
+    /* text-decoration: overline; */
+    /* text-decoration: line-through; */
+
+}
+p{
+    text-align: center;
+}
+a{
+    text-decoration: none;
+}
+h2{
+    font-weight: lighter;
+}
+h3{
+  font-weight:  normal;
+}
+h4{
+    font-weight: 800;
+}

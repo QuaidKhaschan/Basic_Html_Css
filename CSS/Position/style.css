@@ -1,0 +1,36 @@
+div{
+    width: 120px;
+    height: 120px;
+    background-color: rgb(3, 247, 247);
+    display: inline-block;
+}
+#box-1{
+    position: static;
+    top: 30px;
+    bottom: 10px;
+    background-color: rgb(4, 4, 252);
+}
+#box-2{
+    position: relative;
+    top: 30px;
+    left: 40px;
+    background-color: rgb(4, 4, 252);
+}
+#box-3{
+    position: absolute;
+    top: 30px;
+    bottom: 10px;
+    background-color: rgb(83, 252, 4);
+}
+#box-4{
+    position: fixed;
+    width: 200vw;
+    top: 0;
+    background-color: rgb(4, 194, 252);
+}
+#box-5{
+    position: sticky;
+    top: 0;
+    bottom: 10px;
+    background-color: rgb(252, 4, 4);
+}

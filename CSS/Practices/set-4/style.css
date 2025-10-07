@@ -1,0 +1,11 @@
+h1{
+    text-align: center ;
+    text-transform: capitalize;
+}
+#main p{
+    font-size:45px;
+    background-color: aqua;
+}
+#first p{
+    font-size: 10px;
+}

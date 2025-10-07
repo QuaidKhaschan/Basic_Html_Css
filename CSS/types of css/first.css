@@ -1,0 +1,11 @@
+/* external css */
+body{
+    background-color: rgb(8, 182, 8, 0.4);
+    color: rgb(94, 11, 8);
+}
+h1{
+    background-color: palevioletred;
+    color: blue;
+    font-size: 40px;
+
+}

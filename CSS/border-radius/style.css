@@ -1,0 +1,32 @@
+.box1{
+    height: 100px;
+    width: 80px;
+    background-color: aqua;
+    text-align: center;
+    border: 2px solid black;
+    border-radius: 12px;
+}
+.box2{
+    height: 200px;
+    width: 100px;
+    text-align: center;
+    border: 2px solid rgb(43, 39, 39);
+    border-radius: 50px;
+    background-color: rgb(83, 226, 226);
+}
+.box3{
+    height: 100px;
+    width: 100px;
+    text-align: center;
+    border: 2px solid black;
+    border-radius: 100px;
+    background-color: rgb(7, 105, 105);
+}
+.box4{
+    height: 100px;
+    width: 100px;
+    text-align: center;
+    border: 2px solid rgb(49, 47, 47);
+    border-radius : 50%;
+    background-color: rgb(69, 168, 168);
+}

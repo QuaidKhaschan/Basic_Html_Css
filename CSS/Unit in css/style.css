@@ -1,0 +1,36 @@
+#box-1{
+    width: 100px;
+    height: 100px;
+    background-color: rgb(25, 231, 231);
+}
+#box-2{
+    width: 60%;
+    height:50% ;
+    background-color: rgb(93, 12, 199);
+}
+#em-1{
+    width: 150px;
+    height: 150px;
+    font-size: 20px;
+    background-color: rgb(1, 119, 1);
+}
+#em-inner-1{
+width: 7em;
+height: 4em;
+background-color: rgb(209, 158, 28);
+}
+#rem-1{
+    width: 150px;
+    height: 150px;
+    background-color: rgb(119, 1, 80);
+}
+#rem-inner-1{
+width: 2em;
+height: 4em;
+background-color: rgb(28, 152, 209);
+}
+#vh-1{
+width: 40vw;
+height: 50vh;
+background-color: palevioletred;
+}

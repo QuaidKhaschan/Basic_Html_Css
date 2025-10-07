@@ -1,0 +1,25 @@
+/* asterist */ 
+*{
+    color: #ff0000;
+    background-color: rgb(21, 253, 253);
+}
+h2{
+    color: rgb(10, 10, 155);
+}
+#heading1{
+    color: rgb(110, 156, 241);
+    background-color: rgb(158, 252, 252);
+}
+#heading2{
+    color: rgb(187, 44, 139);
+    background-color: rgb(148, 218, 146);
+}
+#heading3{
+    color: rgb(5, 29, 73);
+    background-color: rgb(65, 107, 107);
+}
+.para1{
+    color: rgb(142, 23, 253);
+    font-size: 20px;
+    background-color: rgb(236, 116, 116);
+}
